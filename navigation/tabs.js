@@ -23,6 +23,7 @@ const Tabs = () => {
           borderColor: 'transparent',
           height: 100,
         },
+        headerShown: false,
       }}>
       <Tab.Screen
         name="Home"
